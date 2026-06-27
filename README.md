@@ -1,5 +1,5 @@
 <div align="center">
-   # 🎬 Machine Learning Movie Recommendation Engine
+   ## 🎬 Machine Learning Movie Recommendation Engine ##
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@ This project is an end-to-end Machine Learning pipeline and interactive web dash
 ### System in Action (Screen Recording)
 Watch the full recommendation engine in action, including live API fetching of movie posters and instantaneous similarity calculations.
 
-<video src="https://github.com/Subhadip-cloudCoder/Movie-Recommendation-Model/raw/main/images_and_videos/your_video_name.mp4" width="100%" controls></video>
+<video src="https://github.com/Subhadip-cloudCoder/Movie-Recommendation-Model/raw/main/images_and_videos/movie_recommendation_system_video.mp4" width="100%" controls></video>
 
 ---
 
@@ -36,11 +36,11 @@ Below are actual outputs from the engine when querying highly popular cinematic 
 
 ### 🦇 Batman Movie Query
 
-<img src="images_and_videos/batman_movie_recommendations.png" alt="Batman Recommendations" width="800"/>
+<img src="images_and_videos/batman_movie_recommendation.png" alt="Batman Recommendations" width="800"/>
 
 ### 🕷️ Spiderman Movie Query
 
-<img src="images_and_videos/spiderman_movies_recommendations.png" alt="Spiderman Recommendations" width="800"/>
+<img src="images_and_videos/spiderman_movies_recommendation.png" alt="Spiderman Recommendations" width="800"/>
 
 ---
 
