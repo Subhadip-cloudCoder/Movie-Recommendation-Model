@@ -5,3 +5,4 @@ scikit-surprise
 nltk
 requests
 streamlit
+pickle
