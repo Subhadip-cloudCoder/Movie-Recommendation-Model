@@ -1,5 +1,5 @@
 <div align="center">
-   ## 🎬 Machine Learning Movie Recommendation Engine
+   # 🎬 Machine Learning Movie Recommendation Engine
 </div>
 
 <p align="center">
