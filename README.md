@@ -1,5 +1,5 @@
 <div align="center">
-  # 🎬 Machine Learning Movie Recommendation Engine
+   # 🎬 Machine Learning Movie Recommendation Engine
 </div>
 
 <p align="center">
@@ -23,16 +23,24 @@ This project is an end-to-end Machine Learning pipeline and interactive web dash
 ### System in Action (Screen Recording)
 Watch the full recommendation engine in action, including live API fetching of movie posters and instantaneous similarity calculations.
 
-<!-- Replace YOUR-USERNAME, YOUR-REPO-NAME, and your_video_name.mp4 with your actual details -->
-<video src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/videos/your_video_name.mp4" width="100%" controls></video>
+<video src="https://github.com/Subhadip-cloudCoder/Movie-Recommendation-Model/raw/main/images_and_videos/your_video_name.mp4" width="100%" controls></video>
 
-### Proof of Concept: Recommendations
+---
+
+## 📸 Proof of Concept: Recommendations
 Below are actual outputs from the engine when querying highly popular cinematic franchises. The model successfully clusters mathematically similar movies based on semantic metadata.
 
-| 🦸‍♂️ Avengers Query | 🦇 Batman Query | 🕷️ Spiderman Query |
-| :---: | :---: | :---: |
-| <img src="images_and_videos/avengers_movie_recommendations.png" alt="Avengers Recommendations" width="250"/> | <img src="images/batman.png" alt="Batman Recommendations" width="250"/> | <img src="images/spiderman.png" alt="Spiderman Recommendations" width="250"/> |
-| *Identifies ensemble superhero team-ups and Marvel properties.* | *Captures the dark, gritty detective tone of DC's caped crusader.* | *Recognizes web-slinging action and coming-of-age hero themes.* |
+### 🦸‍♂️ Avengers Movie Query
+
+<img src="images_and_videos/avengers_movie_recommendations.png" alt="Avengers Recommendations" width="800"/>
+
+### 🦇 Batman Movie Query
+
+<img src="images_and_videos/batman_movie_recommendations.png" alt="Batman Recommendations" width="800"/>
+
+### 🕷️ Spiderman Movie Query
+
+<img src="images_and_videos/spiderman_movies_recommendations.png" alt="Spiderman Recommendations" width="800"/>
 
 ---
 
