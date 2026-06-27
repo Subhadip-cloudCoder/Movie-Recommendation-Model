@@ -21,7 +21,8 @@ This project is an end-to-end Machine Learning pipeline and interactive web dash
 ### System in Action (Screen Recording)
 Watch the full recommendation engine in action, including live API fetching of movie posters and instantaneous similarity calculations.
 
-<video src="images_and_videos/movie_recommendation_system_video.mp4" width="100%" controls></video>
+<video src="https://github.com/Subhadip-cloudCoder/Movie-Recommendation-Model/raw/main/images_and_videos/movie_recommendation_system_video.mp4" width="100%" controls></video>
+
 
 ---
 
