@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- You can add a main project logo here by uploading it to your images folder -->
-  <img src="images/main_logo.png" alt="Project Logo" width="150" />
-  
   # 🎬 Machine Learning Movie Recommendation Engine
 </div>
 
@@ -34,7 +31,7 @@ Below are actual outputs from the engine when querying highly popular cinematic 
 
 | 🦸‍♂️ Avengers Query | 🦇 Batman Query | 🕷️ Spiderman Query |
 | :---: | :---: | :---: |
-| <img src="images/avengers.png" alt="Avengers Recommendations" width="250"/> | <img src="images/batman.png" alt="Batman Recommendations" width="250"/> | <img src="images/spiderman.png" alt="Spiderman Recommendations" width="250"/> |
+| <img src="images_and_videos/avengers_movie_recommendations.png" alt="Avengers Recommendations" width="250"/> | <img src="images/batman.png" alt="Batman Recommendations" width="250"/> | <img src="images/spiderman.png" alt="Spiderman Recommendations" width="250"/> |
 | *Identifies ensemble superhero team-ups and Marvel properties.* | *Captures the dark, gritty detective tone of DC's caped crusader.* | *Recognizes web-slinging action and coming-of-age hero themes.* |
 
 ---
