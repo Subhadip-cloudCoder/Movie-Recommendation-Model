@@ -135,10 +135,26 @@ Key Takeaways & Project Highlights:
  Production-Ready Engineering: Integrates asynchronous external API requests to TMDB to dynamically pull visual artwork at runtime, offering an engaging user experience without dragging down computational efficiency.
 Ultimately, this project stands as a complete proof of concept for constructing modular, reproducible, and highly performant machine learning applications designed to optimize content relevance and solve the modern information filtering problem.
 
+---
 
+## 📬 Let's Connect!
 
+I enjoy discussing Data Science, Machine Learning, and innovative tech projects. Whether you have a question about this model, some feedback, or just want to connect, feel free to reach out!
 
+<br>
 
+**Subhadip Biswas**
 
+[![Email](https://img.shields.io/badge/Email-subhadip2622%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhadip2622@gmail.com)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhadip-cloudCoder)
 
+[![X (Twitter)](https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhadipcodes?s=11)
+
+<br>
+
+<p align="center">
+
+  <b>⭐️ If you found this project helpful or interesting, please consider giving it a star! ⭐️</b>
+
+</p>
