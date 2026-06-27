@@ -1,4 +1,4 @@
-## 🎬 Machine Learning Movie Recommendation Engine
+# 🎬 Machine Learning Movie Recommendation Engine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white" alt="Python">
