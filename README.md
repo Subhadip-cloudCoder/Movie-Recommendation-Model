@@ -82,5 +82,5 @@ Want to run this recommendation engine on your local machine?
 
 ### 1. Clone the repository & enter the directory:
 ```bash
-git clone [https://github.com/your-username/movie-recommendation-system.git](https://github.com/your-username/movie-recommendation-system.git)
+git clone https://github.com/your-username/movie-recommendation-system.git
 cd movie-recommendation-system
